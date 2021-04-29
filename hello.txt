@@ -9,3 +9,5 @@ Hello Git! Hello GitHub!
 3333333333333
 000000
 123456
+hello master test!
+hello hot test!
