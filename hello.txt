@@ -8,6 +8,6 @@ Hello Git! Hello GitHub!
 Hello Git! Hello GitHub!
 3333333333333
 000000 master test
-123456
+123456 hot text
 hello master test!
 hello hot test!
